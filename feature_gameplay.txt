@@ -1,1 +1,2 @@
 assign animations for characters
+music and sound effect in gameplay
