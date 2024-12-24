@@ -1,1 +1,2 @@
 assign animations
+inventory, settings, credits, leaderboard
